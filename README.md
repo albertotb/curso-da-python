@@ -14,20 +14,20 @@
 ## Temario
 
 1. Sesión 1
-  * Introdución a Python (5 horas)
+    * Introdución a Python (5 horas)
 
 2. Sesión 2
-  * Introducción a Python (avanzado) (3 horas)
-  * Gestión de fuentes de información: XML y JSON (2 horas)
+    * Introducción a Python (avanzado) (3 horas)
+    * Gestión de fuentes de información: XML y JSON (2 horas)
 
 3. Sesión 3
-  * Librería numpy (2 horas)
-  * Pandas básico (3 horas)
+    * Librería numpy (2 horas)
+    * Pandas básico (3 horas)
 
 4. Sesión 4
-  * Pandas avanzado (3 horas)
-  * Visualización de resultados con matplotlib y seaborn (1 hora)
-  * Otras herramientas de análisis estadístico (1 hora)
+    * Pandas avanzado (3 horas)
+    * Visualización de resultados con matplotlib y seaborn (1 hora)
+    * Otras herramientas de análisis estadístico (1 hora)
 
 
 ## Referencias
