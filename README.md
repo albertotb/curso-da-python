@@ -10,6 +10,7 @@
     + seaborn
     + statsmodels
 
+* Descargar repositorio [Gitzip](https://kinolien.github.io/gitzip/)
 
 ## Temario
 
