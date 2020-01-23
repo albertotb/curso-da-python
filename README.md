@@ -10,6 +10,7 @@
     + seaborn
     + statsmodels
 
+* Descargar repositorio [Gitzip](https://kinolien.github.io/gitzip/)
 
 ## Temario
 
@@ -18,10 +19,10 @@
 
 2. Sesión 2
     * Introducción a Python (avanzado) (3 horas)
-    * Gestión de fuentes de información: XML y JSON (2 horas)
+    * Librería numpy (2 horas)
 
 3. Sesión 3
-    * Librería numpy (2 horas)
+    * Gestión de fuentes de información: XML y JSON (2 horas)
     * Pandas básico (3 horas)
 
 4. Sesión 4
@@ -32,8 +33,8 @@
 
 ## Referencias
 
-  * (Python Data Science Handbook)[https://jakevdp.github.io/PythonDataScienceHandbook/]
-  * (Python for Data Analysis (github))[https://github.com/wesm/pydata-book]
-  * (scipy-lectures)[https://www.scipy-lectures.org/]
-  * (scipy.stats)[https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html]
-  * (statmodels)[https://www.statsmodels.org/stable/index.html]
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  * [Python for Data Analysis (github)](https://github.com/wesm/pydata-book)
+  * [scipy-lectures](https://www.scipy-lectures.org/)
+  * [scipy.stats](https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html)
+  * [statmodels](https://www.statsmodels.org/stable/index.html)
