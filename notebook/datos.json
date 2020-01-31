@@ -1,9 +1,0 @@
-{
-  "nombre": "Juan",
-  "edad": 30,
-  "coche": null,
-  "hijos": [
-    "Laura",
-    "Pedro"
-  ]
-}
