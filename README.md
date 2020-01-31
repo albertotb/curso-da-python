@@ -19,10 +19,11 @@
 
 2. Sesión 2
     * Introducción a Python (avanzado) (3 horas)
-    * Librería numpy (2 horas)
+    * Gestión de fuentes de información: XML y JSON (2 horas)
 
 3. Sesión 3
-    * Gestión de fuentes de información: XML y JSON (2 horas)
+    
+    * Librería numpy (2 horas)
     * Pandas básico (3 horas)
 
 4. Sesión 4
